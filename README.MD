@@ -29,8 +29,7 @@ Linguagens fracamente tipadas são aquelas que não se importam com o tipo de da
 
 
 
-
-
+Esse são algumas das caracteristicas básicas da linguagem, veremos outras em breve
 
 
 

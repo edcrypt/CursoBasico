@@ -31,10 +31,12 @@ Linguagens dinamicamente tipadas são aquelas que não associam uma variável (u
 
 Esse são algumas das caracteristicas básicas da linguagem, veremos outras em breve.
 
+Para abrir o apetite, o python num terminal (ou abra o Idle, se tiver instalado), e digite uma conta simples e aperte Enter:
 
+```python
+2 + 2
+```
 
+O resultado deve ter aparecido em seguida, e uma nova linha começando com `>>>` deve ter aparecido para você entrar outro comando.
 
-
-
-
-
+Nada surpreendente por enquanto, certo? Mas é bom se acostumar com o terminal do Python. É uma forma interativa de aprender a linguagem.

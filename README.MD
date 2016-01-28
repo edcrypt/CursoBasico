@@ -31,7 +31,7 @@ Linguagens dinamicamente tipadas são aquelas que não associam uma variável (u
 
 Esse são algumas das caracteristicas básicas da linguagem, veremos outras em breve.
 
-Para abrir o apetite, o python num terminal (ou abra o Idle, se tiver instalado), e digite uma conta simples e aperte Enter:
+Para abrir o apetite, abra o python num terminal (ou abra o Idle, se tiver instalado), digite uma conta simples e aperte Enter:
 
 ```python
 2 + 2

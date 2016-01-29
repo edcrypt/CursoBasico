@@ -14,11 +14,11 @@ nome = 'Rafael'
 idade = 28
 ```
 
-A variável 'nome', após a operação de atribuição, representa o valor 'Rafael'. Em seguida, usamos novamente o operador `=` para atribuir o valor `28` ao nome `idade`. A regra geral da atribuição é: `nome_da_variavel = expressao`. 
+A variável 'nome', após a operação de atribuição, representa o valor `'Rafael'`. Em seguida, usamos novamente o operador `=` para atribuir o valor `28` ao nome `idade`. A regra geral da atribuição é: `nome_da_variavel = expressao`. 
 
 O *nome da variável* pode ser o que vcocê quiser, contanto que comece com uma letra (`a`, `b`, `c`, etc) ou undescore (`_`), que pode ser seguida de qualquer combinação de numeros, underscores e letras. Por exemplo, são nomes válidos: `aaaaaaa`, `nome2`, `minha_variavel_01`, `_1_variavel`, etc.
 
-A *expressão*, do lado direito do `=`, pode ser tanto um valor simples, como 'Rafael' ou 28 no exemplo acima, ou algo um pouco mais complexo, como uma conta usando o operador `*`, de multiplicação:
+A *expressão*, do lado direito do `=`, pode ser tanto um valor simples, como `'Rafael'` ou `28` no exemplo acima, ou algo um pouco mais complexo, como uma conta usando o operador `*`, de multiplicação:
 
 ```python
 minutos_por_dia = 60 * 24
@@ -30,6 +30,13 @@ Nesse caso, o Python primeiro executa o lado direito (ou seja, faz a conta `60 *
 segundos_por_dia = minutos_por_dia * 60
 ```
 
+No terminal do python, digite o nome da nova variável, `minutos_por_dia`, para ver o resultado.
+
+```python
+segundos_por_dia
+```
+
+Você deve ter visto o resultado `86400`. Parabéns, você já sabe o número de segundos em um dia!
 
 Python é uma linguagem *dinamicamente tipada*, ou seja, uma variável pode apontar para qualquer tipo de valor. Não existe uma regra que proiba uma variavel `nome` de conter por exemplo a idade 19. Em uma linguagem estáticamente tipada o código a seguir não funcionaria:
 

@@ -25,8 +25,9 @@ Uma linguagem de alto nível é uma linguagem que se aproxima mais da linguagem 
 
 ### Linguagem com tipagem dinamica e fortemente tipada.
 
-Linguagens dinamicamente tipadas são aquelas que não associam uma variável (um nome que faz referência a um valor) a um tipo específico. Elas permitem que o programador escreva um código que aceite qualquer objeto que obedeça um a "protocolo" informal (que atue como um arquivo, por exemplo), independente do tipo. Mas tipos ainda são importantes: Python não assume o que você quer dizer ao tentar somar um tipo de texto (string, unicode) com um número (inteiros, ponto flutuantes). Ele vai dar um TypeError: você quer concatenar (como em Javascript) ou transformar o texto em número e fazer uma soma?
+Linguagens dinamicamente tipadas são aquelas que não associam uma variável (um nome que faz referência a um valor) a um tipo específico. Elas permitem que o programador escreva um código que aceite qualquer objeto que obedeça um a "protocolo" informal (que atue como um arquivo, por exemplo), independente do tipo. 
 
+Mas tipos ainda são importantes: Python não assume o que você quer dizer ao tentar somar um tipo de texto (string, unicode) com um número (inteiros, ponto flutuantes). Ele vai dar um `TypeError`, que basicamente quer dizer: você quer concatenar (como em Javascript) ou transformar o texto em número e fazer uma soma?
 
 
 Esse são algumas das caracteristicas básicas da linguagem, veremos outras em breve.

@@ -1,7 +1,7 @@
 Aula 01
 =======
 
-Vamos ver algumas partes básicas da sintaxe. Sintaxe é o conjunto de regras que define a estrutura da linguagem. Por exemplo, pense no portugues, não da para sair escrevendo palavras aleatorias: isso não faria nenhum sentido e por isso é preciso usar regras de escrita para que a linguagem seja legivel. 
+Vamos ver algumas partes básicas da sintaxe. Sintaxe é o conjunto de regras que define a estrutura da linguagem. Por exemplo, pense no portugues, não da para sair escrevendo palavras aleatorias: isso não faria nenhum sentido, e por isso é preciso usar regras de escrita para que a linguagem seja legivel. Da mesma forma, Python, como qualquer outra linguagem, tem um conjunto de regras semelhantes à gramática. 
 
 Mesmo assim, você ainda pode fazer uma frase que seja *sintaticamente correta* (obedeça todas as regras de como juntar as palavras e pontuações), mas que não faça sentido lógico: não quer dizer que esteja *semanticamente* correta. Da mesma forma, o interpretador de Python pode não reclamar da forma como você usa seus simbolos (`SyntaxError`) e ainda reclamar que não consegue executá-lo até o fim.
 

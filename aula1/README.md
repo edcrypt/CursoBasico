@@ -48,11 +48,11 @@ segundos_por_dia
 
 Você deve ter visto o resultado `86400`. Parabéns, você já sabe o número de segundos em um dia!
 
-Python é uma linguagem *dinamicamente tipada*, ou seja, uma variável pode apontar para qualquer tipo de valor. Não existe uma regra que proiba uma variavel `nome` de conter por exemplo a idade `19`. Em uma linguagem estáticamente tipada o código a seguir não funcionaria:
+Python é uma linguagem *dinamicamente tipada*, ou seja, uma variável pode apontar para qualquer tipo de valor. Não existe uma regra que proiba uma variavel `nome` de conter a idade `19`, por exemplo. Em uma linguagem estáticamente tipada o código a seguir não funcionaria:
 
 ```python
 nome = 'Rafael'
 nome = 29
 ```
 
-Pense em variáveis como nomes que fazem *referência* a algum valor guardado na memória. Esses nomes podem passar a apontar para outros valores a qualquer momento, de qualquer tipo. O tipo daquele valor, que determina que operações você pode fazer com ele, é uma informação que está atrelada ao *valor* em sí, não ao(s) nome(s).
+Pense em variáveis como nomes que fazem *referência* a algum valor guardado na memória. Esses nomes podem passar a apontar para outros valores a qualquer momento, de qualquer tipo. O tipo daquele valor, que determina que *operações* você pode fazer com ele, é uma informação que está atrelada ao *valor* em sí, não ao(s) nome(s).

@@ -8,7 +8,7 @@ Mas o que fodendo é Python?
 ===========================
 
 Python é uma linguagem de programação criada pelo holandês Guido van Rossum.
-Python é uma linguagem interpretada, de alto nível e dinamicamente/fortemente tipada. Vamos tratar de todas essas caracteristicas depois, mas por enquanto vamos focar no seguinte fato: Python é a melhor linguagem de programação do universo. Tendo dito isso, vamos começar!
+Python é uma linguagem interpretada, de alto nível e dinamicamente/fortemente tipada. Vamos tratar de todas essas logo em seguida, mas por enquanto vamos focar no seguinte fato: Python é a melhor linguagem de programação do universo. Tendo dito isso, vamos começar!
 
 ### Linguagem interpretada
 Isso significa que Python não é uma linguagem compilada (pelo menos não diretamente para linguagem de máquina, mas há um processo de compilação para uma linguagem intermediária, semelhante a Java). Segundo a wikipédia significa:
